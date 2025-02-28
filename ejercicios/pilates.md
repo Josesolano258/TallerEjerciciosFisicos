@@ -12,3 +12,8 @@ El pilates es un método de entrenamiento que mejora la fuerza, la flexibilidad 
 1. Usa una colchoneta cómoda.
 2. Realiza ejercicios de respiración controlada.
 3. Sigue movimientos fluidos como el "Hundred" y el "Roll-Up".
+
+## Consejos
+- Mantén la respiración controlada en cada ejercicio.
+- Enfócate en la precisión de los movimientos.
+- No te apresures, el control es clave en Pilates.
